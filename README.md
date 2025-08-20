@@ -1,5 +1,3 @@
-Eureka-Backend
-
 Eureka Risk Assessment Front-End:
 
 EUREKA is a wildfire detection network that aims to develop and deploy a large-scale IoT network consisting of miniature weather stations capable of monitoring various environmental conditions (e.g., temperature and humidity, wind, soil moisture) to help predict and detect wildfires in a timely manner and mitigate their potentially devastating consequences.
